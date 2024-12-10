@@ -1,3 +1,3 @@
 # ADHOC RUST
 
-this repository have some rust practices and small programs
+this repository have some rust practices problems and small programs
