@@ -1,4 +1,4 @@
-mod temperature;
+mod fib;
 fn main() {
-    temperature::main();
+    fib::main();
 }
